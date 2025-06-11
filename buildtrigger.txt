@@ -1,0 +1,1 @@
+File to check whether it automatically triggers the build or not
